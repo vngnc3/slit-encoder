@@ -8,7 +8,7 @@ import os
 # Updated full code with requested features
 input_directory = "./input/"
 output_directory = "./output/"
-n_slits = 100 # Total animation frames must be a factor of n_slits
+n_slits = 120 # Total animation frames must be a factor of n_slits
 debug_mode = False  # Dump all slit patterns when True, only the first when False
 horizontal_mode = False  # Generate slit patterns horizontally when True
 
